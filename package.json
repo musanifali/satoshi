@@ -1,0 +1,13 @@
+{
+  "name": "ovexisland",
+  "version": "1.0.0",
+  "description": "Satoshi Global Village - Static Website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": ["static", "website", "satoshi", "global", "village"],
+  "author": "",
+  "license": "MIT"
+}
